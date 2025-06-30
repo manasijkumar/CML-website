@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Cognition and Memory Lab
+nav:
+  - Home: index.md
+  - Research: research.md
+  - People: people.md
+  - Publications: publications.md
+  - Presentations: presentations.md
+  - Resources: resources.md
+  - Contact: contact.md
+theme: readthedocs
