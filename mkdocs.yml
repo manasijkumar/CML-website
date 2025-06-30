@@ -6,6 +6,6 @@ nav:
   - Publications: publications.md
   - Presentations: presentations.md
   - Resources: resources.md
-  - Contact: contact.md
+  - Contact us: contact.md
 theme:
   name: material
