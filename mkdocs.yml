@@ -7,4 +7,5 @@ nav:
   - Presentations: presentations.md
   - Resources: resources.md
   - Contact: contact.md
-theme: readthedocs
+theme:
+  name: material
