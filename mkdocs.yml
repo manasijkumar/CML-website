@@ -6,6 +6,16 @@ nav:
   - Publications: publications.md
   - Presentations: presentations.md
   - Resources: resources.md
-  - Contact us: contact.md
+  - Join us!: interest.md
+  - Contact: contact.md
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.tabs.sticky 
+    - navigation.expand
+  palette:
+    scheme: slate
+markdown_extensions:
+  - attr_list
