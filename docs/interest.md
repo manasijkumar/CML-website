@@ -1,4 +1,6 @@
-# Interested in working at with us at CML?
+
+
+# Interested in working with us at CML?
 
 While there is no official requirement to join the lab, I do give preference to students who have completed **at least one course with me**. I strongly recommend that you complete (or concurrently enroll in) Research Methods I when you begin working in my lab.
 

@@ -1,30 +1,27 @@
+
 # Resources
 
-## Programming, Statistics, and Methods
+## Programming 
 
-### Programming tutorials
-
+- [SIPPS R coding workshops](https://columbia-sipps.github.io/workshops/coding/){:target="_blank"}  
+*Note: I recommend these workshops as a starting point for research assistants as they were created with undergraduate research assistants in Psychology in mind.*
 - [Columbia Foundations for Research Computing](https://rcfoundations.research.columbia.edu/){:target="_blank"}
-- [SIPPS coding workshops](https://columbia-sipps.github.io/workshops/coding_basic/){:target="_blank"}
 - [Data analysis and visualization for ecologists](https://github.com/mdnunez/PIPS_course){:target="_blank"}
 - [Programming in Psychological Sciences course](https://github.com/mdnunez/PIPS_course){:target="_blank"}
 - [R for data science](https://r4ds.had.co.nz/){:target="_blank"}
 - [Unix](https://swcarpentry.github.io/shell-novice/){:target="_blank"}
 
-### Git
+## Version Control
 
 - [Version control with Git](https://swcarpentry.github.io/git-novice/){:target="_blank"}
 - [Git with R studio](https://happygitwithr.com/){:target="_blank"}
 
-### Statistics
+## Statistics
 
 - [Mixed-effects Modeling](http://mfviz.com/hierarchical-models/){:target="_blank"}
 - [Bayesian statistics with R](https://oliviergimenez.github.io/bayesian-stats-with-R/){:target="_blank"}
 
-### Neuroimaging Analysis
-
-- [AFNI Bootcamp](https://www.youtube.com/channel/UC40RiNZN7_dCuB6Lg7HJl1g){:target="_blank"}
-- [Andy’s Brain Book](https://andysbrainbook.readthedocs.io/en/latest/){:target="_blank"}
+## Cognitive and Computational Neuroscience Methods
 
 ### Eyetracking and pupilometry
 
@@ -33,14 +30,19 @@
 - [PyGaze](http://www.pygaze.org/){:target="_blank"}
 - [Webgazer](https://webgazer.cs.brown.edu/#publication){:target="_blank"}
 
+### Neuroimaging Analysis
+
+- [AFNI Bootcamp](https://www.youtube.com/channel/UC40RiNZN7_dCuB6Lg7HJl1g){:target="_blank"}
+- [Andy’s Brain Book](https://andysbrainbook.readthedocs.io/en/latest/){:target="_blank"}
+
 ### Other
 
 - [Reinforcement Learning resource guide](https://github.com/rmgeddert/Reinforcement-Learning-Resource-Guide/blob/master/RLResourceGuide.md){:target="_blank"}
 
-## Research Skills and Tools
+## Research Skills
 
-- [SIPPS workshops on research skills](https://columbia-sipps.github.io/workshops2021/research_skills/){:target="_blank"}
-- [SIPPS workshops on professional development](https://columbia-sipps.github.io/workshops2021/development/){:target="_blank"}
+- [SIPPS workshops on research skills](https://columbia-sipps.github.io/workshops/research_skills/){:target="_blank"}
+- [SIPPS workshops on professional development](https://columbia-sipps.github.io/workshops/development/){:target="_blank"}
 - [Purdue OWL APA 7 guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html){:target="_blank"}
 - [How to undertake a literature review](http://www.raulpacheco.org/2017/04/how-to-undertake-a-literature-review/){:target="_blank"}
 - [Connected papers](https://www.connectedpapers.com/){:target="_blank"}
@@ -70,11 +72,8 @@
 
 ## Advice for grad students
 - [A blog post](https://dorsaamir.medium.com/modest-advice-for-new-graduate-students-b0be6b8dbc22){:target="_blank"}
-- [Academic Chatter](https://twitter.com/AcademicChatter){:target="_blank"}
-- [Academic infographics](){:target="_blank"}
 - [Another blog post](https://www.psychologytoday.com/us/blog/american-me-american-we/202010/things-no-one-told-me-about-pursuing-psychology-phd){:target="_blank"}
 - [An unofficial guidebook for PhD](https://static1.squarespace.com/static/55c143d9e4b0cb07521c6d17/t/5b4f409f575d1ff83c2f12d8/1531920545061/PhDGuidebook.pdf){:target="_blank"}
-- [Grad school productivity mega thread on twitter](https://twitter.com/EmanuelAviv/status/1449774083495931919){:target="_blank"}
 - [PhD & Productivity Youtube Channel](https://www.youtube.com/c/PhDandProductivity){:target="_blank"}
 - PhD Balance: [Website](https://www.phdbalance.com/){:target="_blank"} | [Youtube channel](https://www.youtube.com/channel/UCI1kMS6Sm61xJAJCGqp6Pqw){:target="_blank"}
 - [PhD Coffee Time Youtube channel](https://www.youtube.com/c/PhDCoffeeTime){:target="_blank"}
@@ -100,35 +99,27 @@
 - [Search for funding and grants for ECRs](https://ecrcentral.org/){:target="_blank"}
 
 ## Beyond a PhD
-(I'm not there yet, so stay tuned for more resources)
-
 - [Guide to Postdoc](https://ubadahsabbagh.com/guide-to-postdoc.php){:target="_blank"}
 - [Search for funding and grants for ECRs](https://ecrcentral.org/){:target="_blank"}
 - [My IDP](https://myidp.sciencecareers.org/?AspxAutoDetectCookieSupport=1){:target="_blank"}
 - [Imagine PhD](https://www.imaginephd.com/){:target="_blank"}
 
-## Disabilities, Neurodiversity, & Mental Health
-
-### Disabilities and Neurodiversity
+## Resources for Disabled and Neurodiverse Researchers
 - IncludeEdu: [Website](https://includedu.online/){:target="_blank"} | [Twitter](https://twitter.com/IncludEduOnline){:target="_blank"}
 - [Diasbled in Higher Ed](https://disabledinhighered.weebly.com/dehem-2021.html){:target="_blank"}
 - [Job accommodation network](https://askjan.org/){:target="_blank"}
 - theADHDAcademic: [Website](https://theadhdacademic.weebly.com/){:target="_blank"} | [Twitter](https://twitter.com/theADHDacademic){:target="_blank"}
 - Disabled in STEM: [Website](https://disabledinstem.wordpress.com/){:target="_blank"} | [Twitter](https://twitter.com/DisabledStem){:target="_blank"}
 
-### Mental Health
-- [Twitter thread on how to take care of your meantal health during your PhD](https://twitter.com/ZJAyres/status/1227503028124569600){:target="_blank"}
+## Mental Health
 - Feeling overwhelmed by academia? You are not alone: [Nature Career Feature](https://www.nature.com/articles/d41586-018-04998-1?utm_source=twt_na&utm_medium=social&utm_campaign=NNPnature){:target="_blank"} | [PDF](){:target="_blank"}
 
 ## For International Students
 
-### International student-specific resources
 - [Funding opportunities for international scholars in the U.S.](https://docs.google.com/spreadsheets/d/1J7J_1hz0AjxkExUcPX24W80ZvGi71ZLS8ktUaV4bpdc/edit#gid=834995528){:target="_blank"}
 - [PhD Balance's international student GradChat](https://www.youtube.com/watch?v=bqPSUJnq_ik){:target="_blank"}
 
-## Other
-
-### Fun
+## Fun
 - [PhD Comics](http://phdcomics.com/comics.php){:target="_blank"}
 - [XKCD](https://xkcd.com/){:target="_blank"}
 - [Spurious correlations](https://www.tylervigen.com/spurious-correlations){:target="_blank"}
