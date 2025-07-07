@@ -5,9 +5,10 @@ nav:
   - People: people.md
   - Publications: publications.md
   - Presentations: presentations.md
-  - Resources: resources.md
-  - Join us!: interest.md
-  - Contact: contact.md
+  - Lab Resources: lab_resources.md
+  - General Resources: resources.md
+  - Get Involved: interest.md
+  - Contact US: contact.md
 theme:
   name: material
   features:
