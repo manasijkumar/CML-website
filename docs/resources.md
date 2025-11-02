@@ -5,10 +5,11 @@
 
 - [SIPPS R coding workshops](https://columbia-sipps.github.io/workshops/coding/){:target="_blank"}  
 *Note: I recommend these workshops as a starting point for research assistants as they were created with undergraduate research assistants in Psychology in mind.*
-- [Columbia Foundations for Research Computing](https://rcfoundations.research.columbia.edu/){:target="_blank"}
-- [Data analysis and visualization for ecologists](https://github.com/mdnunez/PIPS_course){:target="_blank"}
+- Columbia Psychology Scientific Computing [Introductory](https://cu-psych-computing.github.io/cu-psych-comp-tutorial/tutorials/r-core/){:target="_blank"} and [Advanced](https://cu-psych-computing.github.io/cu-psych-comp-tutorial/tutorials/r-extra/){:target="_blank"} R tutorials
 - [Programming in Psychological Sciences course](https://github.com/mdnunez/PIPS_course){:target="_blank"}
 - [R for data science](https://r4ds.had.co.nz/){:target="_blank"}
+- [Hands-on Programming in R](https://rstudio-education.github.io/hopr/){:target="_blank"}
+- [Python for Psychologists](https://github.com/remayer/WS19_Python_for_Psychologists){:target="_blank"}
 - [Unix](https://swcarpentry.github.io/shell-novice/){:target="_blank"}
 
 ## Version Control
@@ -22,6 +23,13 @@
 - [Bayesian statistics with R](https://oliviergimenez.github.io/bayesian-stats-with-R/){:target="_blank"}
 
 ## Cognitive and Computational Neuroscience Methods
+
+### PsychoPy
+
+- [PsychoPy Course for Social Sciences](https://www.socsci.ru.nl/wilberth/psychopy/index.html){:target=_"blank"}
+- [Python for social scientists using PsychoPy](https://www.socsci.ru.nl/wilberth/nocms/psychopy/print.php){:target="_blank"}
+- [PsychoPy tutorial for Vision Sciences](https://www.djmannion.net/psych_programming/vision/intro/intro.html#){:target="_blank"}
+- An advanced course on using [PsychoPy for Psychophysics experiments](https://lindeloev.net/psychopy-course/){:target = "_blank"}
 
 ### Eyetracking and pupilometry
 

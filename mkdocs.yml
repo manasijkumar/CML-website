@@ -39,10 +39,18 @@ theme:
 
 # extra_css:
 #  - stylesheets/extra.css
-
+plugins:
+   - search
+#   - glightbox:
+#      width: 10%
+#      height: 10%
+ 
 
 markdown_extensions:
   - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - md_in_html
+  - pymdownx.blocks.caption
+  - tables

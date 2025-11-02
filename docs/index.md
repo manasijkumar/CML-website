@@ -16,7 +16,7 @@ Undergraduate students at Oberlin College play a central role in our research, l
 
 ## Lab News 
 
-Summer 2025: CML welcomes our two summer research assitants - Laura Sanchez & Alina Stoll. 
+Summer 2025: CML welcomes our two summer research assistants - Laura Sanchez & Alina Stoll. 
 
 Spring 2025: CML welcomes our first research assistant, Olivia Pickens.
 
