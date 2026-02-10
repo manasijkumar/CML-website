@@ -3,7 +3,7 @@ Repository to create markdown-file based lab website.
 
 # Setup
 
-1. Install python and pip 
+1. Install python and pip
 2. Mkdocs setup - https://www.mkdocs.org/getting-started/
 3. Material theme for mkdocs - https://squidfunk.github.io/mkdocs-material/getting-started/
 
